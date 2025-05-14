@@ -1,0 +1,14 @@
+html {
+  font-size: 125%;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+.pink {
+  color: rgb(255,192,203)
+}
+.blue{
+  color: skyblue;
+}
+
