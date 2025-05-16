@@ -11,3 +11,11 @@ body {
 a {
   font-size: 20px;
 }
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color:  rgb(244, 79, 79);
+}
+h1 {
+  color: rgb(255, 255, 255);
+}
